@@ -21,6 +21,6 @@ From the terminal, navigate to the root directory of the project, where the app.
 python app.py
 ```
 
-- To stop the app, press Ctrl-C
+Once the application is running, you can make requests to `http://localhost:3001/api/<end-point>`
 
-
+*To stop the app, press Ctrl-C*
