@@ -1,47 +1,54 @@
 [
    {
       "1": {
-         "label": "root",
          "children": [
             {
                "2": {
-                  "label": "ant",
-                  "children": []
+                  "children": [],
+                  "label": "ant"
                }
             },
             {
                "3": {
-                  "label": "bear",
                   "children": [
                      {
                         "4": {
-                           "label": "cat",
-                           "children": []
+                           "children": [],
+                           "label": "cat"
                         }
                      },
                      {
                         "5": {
-                           "label": "dog",
                            "children": [
                               {
                                  "6": {
-                                    "label": "elephant",
-                                    "children": []
+                                    "children": [
+                                       {
+                                          "0e788018-92e7-408b-ac93-bce315f8d30f": {
+                                             "children": [],
+                                             "label": "tiger"
+                                          }
+                                       }
+                                    ],
+                                    "label": "elephant"
                                  }
                               }
-                           ]
+                           ],
+                           "label": "dog"
                         }
                      }
-                  ]
+                  ],
+                  "label": "bear"
                }
             },
             {
                "7": {
-                  "label": "frog",
-                  "children": []
+                  "children": [],
+                  "label": "frog"
                }
             }
-         ]
+         ],
+         "label": "root"
       }
    }
 ]
